@@ -1,9 +1,9 @@
-# Abhay Deokar | Business Analyst & Operations Executive
+# Abhay Deokar | Business Analyst | Operations & Supply Chain Management
 
 ![Portfolio Preview](profile.png)
 
 ## 🌍 Live Portfolio
-🔗 https://yourusername.github.io/portfolio
+🔗 https://abhi6401.github.io/portfolio
 
 ---
 
